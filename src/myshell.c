@@ -110,7 +110,7 @@ void set_shell_env(void)
 }
 // finding process full path: https://stackoverflow.com/questions/5525668/how-to-implement-readlink-to-find-the-path
 
-// the end :)
+// the end 
 
 /*
 STATEMENT OF NON-PLAGIARISM
